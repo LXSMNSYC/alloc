@@ -1,0 +1,30 @@
+{
+  "name": "alloc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXSMNSYC/alloc.git"
+  },
+  "keywords": [
+    "memory",
+    "alloc",
+    "index",
+    "recycle",
+    "free",
+    "malloc"
+  ],
+  "author": "lxsmnsyc <alexis.munsayac@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LXSMNSYC/alloc/issues"
+  },
+  "homepage": "https://github.com/LXSMNSYC/alloc#readme"
+}
